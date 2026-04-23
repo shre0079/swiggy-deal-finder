@@ -123,7 +123,7 @@ swiggy-deal-finder/
 
 ## 📬 Contact
 
-Built by [Your Name] · [your@email.com]
+Built by Shreyash Mishra · shreyashshree0079@gmail.com
 
 ---
 
